@@ -1,0 +1,19 @@
+__pycache__/
+*.pyc
+.venv/
+
+# API keys: ARK_API_KEY, ELEVENLABS_API_KEY
+.env
+.env.local
+
+# Generated output — renders, plates, boards, grades
+out/
+renders/
+plates/
+*.mp4
+*.mov
+*.wav
+*.mp3
+
+.DS_Store
+node_modules/

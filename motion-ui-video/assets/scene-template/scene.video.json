@@ -1,0 +1,11 @@
+{
+  "name": "scene",
+  "url": "http://localhost:3998",
+  "fps": 30,
+  "seconds": 6,
+  "viewport": { "width": 1280, "height": 720 },
+  "deviceScaleFactor": 2,
+  "colorScheme": "dark",
+  "outDir": "out",
+  "beats": []
+}
